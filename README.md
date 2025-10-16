@@ -4,27 +4,24 @@ name's dualify. i'm interested in cybersecurity
 
 i learn c#, css, html, javascript at the moment
 
-
-                            ,--.
-                           {    }
-                           K,   }
-                          /  ~Y`
-                     ,   /   /
-                    {_'-K.__/
-                      `/-.__L._
-                      /  ' /`\_}
-                     /  ' /
-             ____   /  ' /
-      ,-'~~~~    ~~/  ' /_
-   _,'             ``~~~  ',
- /      -                    `,
- |       ',                   )
- |        |   ,..__      __. Y
- |    .,_./  Y ' / ^Y   J   )|
- \           |' /   |   |   ||
-  \          L_/    . _ (_,.'(
-   \,   ,      ^^""' / |      )
-     \_  \          /,L]     /
-       '-_~-,       ` `   ./`
-          `'{_            )
-              ^^\..___,.--`    
+          .                                                      .
+        .n                   .                 .                  n.
+  .   .dP                  dP                   9b                 9b.    .
+ 4    qXb         .       dX                     Xb       .        dXp     t
+dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
+9XXb._       _.dXXXXb dXXXXbo.                 .odXXXXb dXXXXb._       _.dXXP
+ 9XXXXXXXXXXXXXXXXXXXVXXXXXXXXOo.           .oOXXXXXXXXVXXXXXXXXXXXXXXXXXXXP
+  `9XXXXXXXXXXXXXXXXXXXXX'~   ~`OOO8b   d8OOO'~   ~`XXXXXXXXXXXXXXXXXXXXXP'
+    `9XXXXXXXXXXXP' `9XX'   DIE    `98v8P'  HUMAN   `XXP' `9XXXXXXXXXXXP'
+        ~~~~~~~       9X.          .db|db.          .XP       ~~~~~~~
+                        )b.  .dbo.dP'`v'`9b.odb.  .dX(
+                      ,dXXXXXXXXXXXb     dXXXXXXXXXXXb.
+                     dXXXXXXXXXXXP'   .   `9XXXXXXXXXXXb
+                    dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb
+                    9XXb'   `XXXXXb.dX|Xb.dXXXXX'   `dXXP
+                     `'      9XXXXXX(   )XXXXXXP      `'
+                              XXXX X.`v'.X XXXX
+                              XP^X'`b   d'`X^XX
+                              X. 9  `   '  P )X
+                              `b  `       '  d'
+                               `             '
