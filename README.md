@@ -1,5 +1,6 @@
 Learning rust
+Wish to learn vulkan
 
 C# Junior Software Developer
 
-Welcome...
+hi lol
