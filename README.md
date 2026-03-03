@@ -1,6 +1,7 @@
-Learning rust
-Wish to learn vulkan
+Learning rust 🦀
 
-C# Junior Software Developer
+Wish to learn vulkan 🌋
 
-hi lol
+C# Junior Software Developer 💻
+
+hi lol 👋
