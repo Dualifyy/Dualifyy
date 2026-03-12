@@ -1,6 +1,4 @@
-Learning rust 🦀
-
-Wish to learn vulkan 🌋
+Self taught Rust developer 🦀
 
 C# Junior Software Developer 💻
 
