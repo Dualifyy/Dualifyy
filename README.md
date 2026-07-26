@@ -1,5 +1,3 @@
-Self taught Rust developer 🦀
+Student C# Developer
 
-C# Junior Software Developer 💻
-
-hi lol 👋
+I am interested in repairing and modding devices.
