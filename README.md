@@ -3,7 +3,7 @@
 
 Student Software Developer <br>
 <br />
-Summer intern at AthleteBytes OÜ <br>
+2026 Summer intern at AthleteBytes OÜ <br>
 <br />
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
