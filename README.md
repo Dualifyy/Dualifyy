@@ -1,8 +1,9 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Dualifyy&rank_icon=github&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=Dualifyy&rank_icon=github&show_icons=true&include_all_commits=true&theme=great-gatsby)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Dualifyy&langs_count=3&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=Dualifyy&langs_count=3&theme=great-gatsby)
 
-Student Software Developer
+Student Software Developer <br>
 <br />
+Summer intern at AthleteBytes OÜ <br>
 <br />
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
